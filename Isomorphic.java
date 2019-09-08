@@ -1,5 +1,3 @@
-package Java12;
-
 import java.util.TreeSet;
 
 /**
