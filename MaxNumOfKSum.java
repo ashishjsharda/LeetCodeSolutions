@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class MaxNumOfKSum {
     public int maxOperations(int[] nums, int k) {
         Map<Integer, Integer> numFrequency = new HashMap<>();
         int count = 0;
