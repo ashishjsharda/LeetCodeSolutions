@@ -1,4 +1,4 @@
-class Solution {
+class ImageSmootherSolution {
     public int[][] imageSmoother(int[][] img) {
         if (img == null || img.length == 0 || img[0].length == 0) {
             return new int[0][0];
